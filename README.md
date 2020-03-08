@@ -16,6 +16,7 @@ https://drive.google.com/open?id=1YEN3fJ2qG3wLvddBAOlkEZwvuXFrip9u
 ## Usage:
 
 Upload the training set and go through a notebook to train and deploy your RPF simplifier instance.
+
 Requires GPU 16GB+
 
 
