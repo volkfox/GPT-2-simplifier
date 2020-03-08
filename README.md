@@ -1,6 +1,6 @@
 # 224n-final Project Winter 2020
 
-Files:
+## Files:
 
 This repositary contains the traning set and a Pyton notebook for a Wikipedia Simplifier.
 Training dataset exceeds GitHub storage limit and can be downloaded from here:
