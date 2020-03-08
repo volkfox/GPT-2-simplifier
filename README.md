@@ -4,6 +4,19 @@
 
 This is a Wikipedia Simplifier project. It trains a generator on Simple English and attempts to use it to transform regular Wikipedia articles, for example:
 
+```
+Heracles' very existence proved at least one of Zeus' many illicit affairs, 
+and Hera often conspired against Zeus' mortal offspring as revenge for her 
+husband's infidelities. (Flesch-Kinkaid score: 55.2)
+```
+
+can be transformed to:
+
+```
+Heracles' very existence proved at least one of Zeus' many illicit affairs, 
+    and Hera was crushed by the wrath when she had harboured those offspring of Zeus. 
+(Flesch-Kinkaid score: 64.75)
+```
 
 
 
