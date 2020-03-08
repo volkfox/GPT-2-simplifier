@@ -1,6 +1,6 @@
 # 224n-final Project Winter 2020
 
-### Author: Daniel Kharitonov, dkh@cs.stanford.edu
+### Daniel Kharitonov, dkh@cs.stanford.edu
 
 ### Description.
 
