@@ -1,5 +1,13 @@
 # 224n-final Project Winter 2020
 
+### Description.
+
+This is a Wikipedia Simplifier project. It trains a generator on Simple English and attempts to use it to transform regular Wikipedia articles, for example:
+
+
+
+
+
 ## Files:
 
 This repositary contains the traning set and a Pyton notebook for a Wikipedia Simplifier.
