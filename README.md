@@ -37,7 +37,7 @@ https://drive.google.com/open?id=1YEN3fJ2qG3wLvddBAOlkEZwvuXFrip9u
 Full Simple Wikipedia snapshot (155MB)
 https://drive.google.com/open?id=1YEN3fJ2qG3wLvddBAOlkEZwvuXFrip9u
 
-[Python Notebook](https://github.com/volkfox/224n-final/blob/master/RPF_CS224n.ipynb)
+[Python Notebook with Google Collab link](https://github.com/volkfox/224n-final/blob/master/RPF_CS224n.ipynb)
 
 ## Usage:
 
