@@ -1,4 +1,4 @@
-# 224n-final Project Winter 2020
+# GPT-2 based wikie simplifier 2020
 
 #### Daniel Kharitonov, dkh@cs.stanford.edu
 
